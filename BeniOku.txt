@@ -1,0 +1,39 @@
+Öðrenci ve Öðretim Görevlisi giriþi için;
+KullanýcýAdý = TC Kimlik Numarasý
+Þifre	     = TC Kimlik Numarasý
+
+Örnek:
+
+KullanýcýAdý = 39406303200
+Þifre	     = 39406303200
+
+Bilgi-Ýþlem Personeli Giriþi için
+
+KullanýcýAdý = Berkan
+Þifre	     = 123456
+
+
+
+Ek Bilgi
+
+Bilgi Ýþlem giriþi yaptýktan sonra ders eklemk istersek
+Bölüm iþlemleri kýsmýndan derslere týklayýp ordan ders 
+ekleyebiliriz.
+
+Bilgi Ýþlem>Giriþ>Bölüm Ýþlemleri>Dersler>Ders Ekle
+
+Herhangi bir derse hoca atama iþlemi dönemlik 
+deðiþebileceðinden ötürü, bu iþlemi Dönem Ýþlemleri
+kýsmýndan hangi dönemdeki derse hoca atamak istersek 
+o dönemdeki derslere girip  ordan ders ekle üzerinden 
+hocasýyla beraber dersi ekleriz.
+
+Bilgi Ýþlem>Giriþ>Dönem Ýþlemleri>Dersler>Ders Ekle
+
+Son anlatýlan yeri denemeniz için Besyo Fakültesinde
+Antrönörlük bölümünde;
+
+denemeders
+denemeHoca
+
+verilerilerini sisteme ekledik.
